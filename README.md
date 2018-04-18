@@ -1,2 +1,3 @@
 # hei-verden
-Hei paa deg
+Hei på deg
+Dette blir en kjempehit
